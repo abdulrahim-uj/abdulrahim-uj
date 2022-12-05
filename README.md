@@ -9,7 +9,7 @@ I do this because I love helping businesses showcase their full potential to the
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Abdul Rahim K](http://abdulrahimk.herokuapp.com)
 * ✉️  You can contact me at [abdulrahim.uj@gmail.com](mailto:abdulrahim.uj@gmail.com)
-* 🚀  I'm currently working on [Inmakes](http://abdulrahimk.herokuapp.com)
+* 🚀  I'm currently working on [Inmakes](https://www.inmakesedu.com)
 * 🧠  I'm learning Advanced Python
 * 🤝 I'm open to collaborating on Python projects, especially on Django
 * ⚡  Expert in Vulnerability Assessment & Penetration Testing
